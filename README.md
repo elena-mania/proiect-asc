@@ -1,8 +1,5 @@
-# tema-asc
-Tema pentru laboratorul de la materia Arhitectura Sistemelor de Calcul realizata in decembrie 2022
-
-In aceasta tema am implementat urmatoarele cerinte:
-
+#Proiect Grafuri
+Cerintele implementate in cadrul proiectului:
 Cerinta 1:
   Se citesc de la tastatura (STDIN) listele de adiacenta ale grafului orientat G si se cere sa se afiseze matricea de adiacenta. Astfel, se vor citi, cate o valoare pe linie:
     • 1 reprezentand numarul cerintei; pentru cerintele 2 si 3, aceasta valoare va fi 2, respectiv 3;
