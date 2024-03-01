@@ -1,4 +1,4 @@
-# Proiect
+# Descriere
 Cerintele implementate in cadrul proiectului:
 Cerinta 1:
   Se citesc de la tastatura (STDIN) listele de adiacenta ale grafului orientat G si se cere sa se afiseze matricea de adiacenta. Astfel, se vor citi, cate o valoare pe linie:
